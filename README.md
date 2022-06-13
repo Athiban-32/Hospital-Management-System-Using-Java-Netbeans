@@ -1,5 +1,5 @@
 # Hospital-Management-System-Using-Java-Netbeans
-Here is the ScreenShot of Hospital Management System
+<h1 Here is the ScreenShot of Hospital Management System/>
 <img width="365" alt="bms1" src="https://user-images.githubusercontent.com/93418753/173371536-4929d404-0390-4373-8c0f-e35c41221773.png">
 <img width="958" alt="bms2" src="https://user-images.githubusercontent.com/93418753/173371685-fb240c9f-dfa2-48fb-9b42-f079d24ac980.png">
 <img width="511" alt="bms3" src="https://user-images.githubusercontent.com/93418753/173371635-ced11ed2-b520-44b0-91a8-5660947a4103.png">
